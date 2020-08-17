@@ -78,4 +78,4 @@ Bây giờ các thay đổi của bạn đã được xác minh trong quá trìn
 Sau khi merge, Pull Request sẽ lưu giữ bản ghi về các thay đổi lịch sử đối với code của bạn. Bởi vì chúng có thể tìm kiếm được, chúng cho phép bất kỳ ai quay ngược thời gian để hiểu tại sao và cách một quyết định được đưa ra.
 
 ProTip
-Bằng cách kết hợp các từ khóa nhất định vào văn bản của Pull Request, bạn có thể liên kết các vấn đề với code. Khi Pull Request của bạn được merge, các vấn đề liên quan cũng được đóng lại. Ví dụ: nhập cụm từ Closes #32 sẽ đóng issue số 32 trong repository. Để biết thêm thông tin, hãy xem bài viết trợ giúp của chúng tôi.
+Bằng cách kết hợp các từ khóa nhất định vào văn bản của Pull Request, bạn có thể liên kết các vấn đề với code. Khi Pull Request của bạn được merge, các vấn đề liên quan cũng được đóng lại. Ví dụ: nhập cụm từ Closes #32 sẽ đóng issue số 32 trong repository. 
